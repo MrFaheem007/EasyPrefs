@@ -49,7 +49,7 @@ android {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'TheCoder'
+            groupId = 'MrFaheem007'
             artifactId = 'EasyPrefs'
             version = '1.0.0'
 
